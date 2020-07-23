@@ -5,6 +5,6 @@ Design to create an API interface between social media and a custom reward syste
 ## API info
 Link API resources
 ### Twitter API info
-* demo
+* https://developer.twitter.com/en/docs/api-reference-index
 ### Instagram API info
-* demo
+* https://www.instagram.com/developer/
